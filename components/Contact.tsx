@@ -82,6 +82,7 @@ const Contact: React.FC = () => {
   //     setTimeout(() => setFormState('idle'), 3000);
   //   }, 1500);
   // };
+  
 
   return (
     <section id="contact" className="py-20 md:py-28 bg-slate-50">
