@@ -26,39 +26,39 @@ const brandCategories: BrandCategory[] = [
   {
     title: "Servers, Data Center and Work Station",
     brands: [
-      { name: "HPE", logo: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hewlett_Packard_Enterprise_logo_2025.svg" },
+      { name: "HPE", logo: "https://upload.wikimedia.org/wikipedia/commons/4/46/Hewlett_Packard_Enterprise_logo.svg" },
       { name: "IBM", logo: "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" },
       { name: "Cisco", logo: "https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" },
-      { name: "Dell EMC", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dell_Technologies_logo.svg/2560px-Dell_Technologies_logo.svg.png" },
+      { name: "Dell EMC", logo: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dell_EMC_logo.svg" },
     ]
   },
   {
     title: "Networking & Security",
     brands: [
       { name: "Cisco", logo: "https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" },
-      { name: "Juniper", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Juniper_Networks_logo.svg/2560px-Juniper_Networks_logo.svg.png" },
-      { name: "D-Link", logo: "https://upload.wikimedia.org/wikipedia/commons/6/62/D-Link_logo_2.svg" },
-      { name: "Ubiquiti", logo: "https://upload.wikimedia.org/wikipedia/commons/7/78/Ubiquiti_Logo.svg" },
-      { name: "Fortinet", logo: "https://upload.wikimedia.org/wikipedia/commons/8/82/Fortinet_logo.svg" },
+      { name: "Juniper", logo: "https://upload.wikimedia.org/wikipedia/commons/3/31/Juniper_Networks_logo.svg" },
+      { name: "D-Link", logo: "https://upload.wikimedia.org/wikipedia/commons/4/45/D-Link_wordmark.svg" },
+      { name: "Ubiquiti", logo: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ubiquiti_Logo_Horizontal.png" },
+      { name: "Fortinet", logo: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fortinet_Logo.png" },
     ]
   },
   {
     title: "Printers & Imaging",
     brands: [
       { name: "HP", logo: "https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg" },
-      { name: "Canon", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Canon_logo.svg/2560px-Canon_logo.svg.png" },
-      { name: "Epson", logo: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Epson_logo.svg" },
-      { name: "Brother", logo: "https://upload.wikimedia.org/wikipedia/commons/5/52/Brother_Industries_logo.svg" },
-      { name: "Xerox", logo: "https://upload.wikimedia.org/wikipedia/commons/8/84/Xerox_2008_logo.svg" },
+      { name: "Canon", logo: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Canon_logo.svg" },
+      { name: "Epson", logo: "https://upload.wikimedia.org/wikipedia/commons/a/a1/EPSON-Logo.svg" },
+      { name: "Brother", logo: "https://upload.wikimedia.org/wikipedia/commons/8/87/Brother_logo.svg" },
+      { name: "Xerox", logo: "https://upload.wikimedia.org/wikipedia/commons/d/db/Xerox_2008_Logo.png" },
     ]
   },
   {
     title: "Storage & Accessories",
     brands: [
-      { name: "Western Digital", logo: "https://upload.wikimedia.org/wikipedia/commons/3/36/Western_Digital_logo.svg" },
-      { name: "Seagate", logo: "https://upload.wikimedia.org/wikipedia/commons/8/87/Seagate_Technology_logo.svg" },
-      { name: "Samsung", logo: "https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" },
-      { name: "Intel", logo: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" },
+      { name: "Western Digital", logo: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Western_Digital_logo_2004.svg" },
+      { name: "Seagate", logo: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Seagate_logo.svg" },
+      { name: "Samsung", logo: "https://upload.wikimedia.org/wikipedia/commons/6/61/Samsung_old_logo_before_year_2015.svg" },
+      { name: "Intel", logo: "https://upload.wikimedia.org/wikipedia/commons/8/85/Intel_logo_2023.svg" },
       { name: "Microsoft", logo: "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" },
     ]
   }

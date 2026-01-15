@@ -66,11 +66,11 @@ const Contact: React.FC = () => {
       });
   
       setTimeout(() => setFormState('idle'), 3000);
-    } catch (error) {
-      console.error('Email send failed:', error);
-      alert('Something went wrong. Please try again.');
+    } catch (error: any) {
+      console.error('EmailJS error:', error);
+      alert(error?.text || error?.message || 'Email send failed');
       setFormState('idle');
-    }
+    }    
   };  
   // const handleSubmit = (e: React.FormEvent) => {
   //   e.preventDefault();
