@@ -26,7 +26,7 @@ const testimonials: TestimonialItem[] = [
     role: 'Director',
     company: 'Creative Solutions',
     content: 'Their AMC services are top-notch. Whenever we have an issue, their technician is onsite within hours. It gives us peace of mind to focus on our core business.',
-    rating: 4,
+    rating: 5,
   },
   {
     id: '3',
