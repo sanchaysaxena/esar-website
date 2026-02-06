@@ -23,3 +23,15 @@ export interface ContactInfo {
   phone: string[];
   mapEmbedUrl: string;
 }
+
+export interface Product {
+  id: string;
+  name: string;
+  category: string;
+  price: number;
+  image: string;
+  description: string;
+  inStock: boolean;
+  popularity: number;
+  rating: number;
+}
